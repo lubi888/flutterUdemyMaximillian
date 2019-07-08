@@ -19,6 +19,14 @@ Description
 The entire course was completely re-recorded and updated in July 2019 - old, now obsolete content (~25h) is temporarily kept around for existing students until July 31st ([LEGACY] sections).
 
 ---
+By the numbers
+Skill level: All Levels
+Students: 30334
+Languages: English
+Captions: Yes
+Lectures: 600
+Video: 59 hours
+---
 
 Join the most comprehensive & bestselling Flutter course and learn how to build amazing iOS and Android apps!
 
